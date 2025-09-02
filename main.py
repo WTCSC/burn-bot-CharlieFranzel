@@ -1,0 +1,6 @@
+name = input("What's your name? ")
+age = input("How old are you? ")
+hobby = input("What's your hobby? ")
+food = input("Favorite food? ")
+music = input("Favorite music? ")
+print(f"{name}, you're {age} years old, eat {food}, listen to {music}, and think {hobby} is a talent? Tragic.")
